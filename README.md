@@ -1,4 +1,4 @@
-Made by color-picking most of the Cubase 13 interface Elements, then editing Bitwigs theme via https://bitwig.berikai.dev/ and https://github.com/Berikai/bitwig-theme-editor
+Made by color-picking most of the Cubase 13 interface Elements, then editing Bitwigs theme via https://bitwig.berikai.dev/ and https://github.com/Berikai/bitwig-theme-editor (In case you're new to Theming Bitwig, the last github link is THE most important one for you to learn and apply theming. Also make sure to watch Polaritys Tutorial: https://www.youtube.com/watch?v=f8ndWdJKeo4 )
 
 Favorite Settings for me: Bitwig -> User Interface -> Contrast -> Midtones: 35, Black Level 35, Grid Lines 80. 
 
