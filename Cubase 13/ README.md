@@ -1,4 +1,5 @@
 This Theme was made by color-picking most of the Cubase 13 interface Elements, then editing Bitwigs theme via https://bitwig.berikai.dev/ 
+The PLAY Transport Button, Mute Buttons, Track-Volume-Faders, and other Button Elements are colored in bright white. If you want them in a light blue, choose the "Cubase 13 grey-blue" Theme.
 
 Favorite Settings for me: Bitwig -> User Interface -> Contrast -> Midtones: 35, Black Level 35, Grid Lines 80. 
 
